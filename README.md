@@ -1,7 +1,5 @@
-# UT-Austin_Coursework
-A repository showcasing projects and assignments from the Postgraduate Artificial Intelligence and Machine Learning program at UT Austin.
-
 # UT_Austin_Coursework
+A repository showcasing projects and assignments from the Postgraduate Artificial Intelligence and Machine Learning program at UT Austin.
 
 This repository showcases a collection of AI and Machine Learning projects completed as part of my coursework at the University of Texas at Austin. Each project here highlights key concepts, practical applications, and advanced techniques in Artificial Intelligence and Machine Learning, reflecting the skills and knowledge gained during the program.
 
